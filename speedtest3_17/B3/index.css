@@ -1,0 +1,6 @@
+body{
+    display: flex;
+}
+input:checked+div{
+    text-decoration: line-through;
+}
